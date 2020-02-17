@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  DBoW.cpp
+c:\users\icehan\desktop\loopclosurecpp\dbow\dbow\dbow.cpp(13): fatal error C1083: Cannot open include file: 'DBoW3.h': No such file or directory
