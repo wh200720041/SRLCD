@@ -17,10 +17,9 @@ Comparison approach can be found at https://github.com/wh200720041/VRP_Compariso
 <img src="https://github.com/wh200720041/SRLCD/blob/master/img/precision_recall.png" width = 45% />
 </p>
 
-                      KITTI sequence 00                                  KITTI sequence 05
 ### 1.3. Comparison
 <p align='center'>
-<img src="https://github.com/wh200720041/SRLCD/blob/master/img/metrics_comparison.png"/>
+<img src="https://github.com/wh200720041/SRLCD/blob/master/img/metrics_comparison.png" width = 60% />
 </p>
 
 
