@@ -7,7 +7,7 @@ Comparison approach can be found at https://github.com/wh200720041/VRP_Compariso
 
 
 ## 1. Evaluation
-### 1.1. Example on KITTI dataset
+### 1.1. Example on public dataset (KITTI dataset, TUM dataset, Oxford RobotCar dataset)
 <p align='center'>
 <img src="https://github.com/wh200720041/SRLCD/blob/master/img/detection_examples.png"/>
 </p>
