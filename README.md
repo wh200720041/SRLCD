@@ -1,5 +1,5 @@
 # SRLCD
-Loop Closure Detection through saliency re-identification
+Loop Closure Detection through saliency re-identification IROS 2020
 
 **Author:** [Wang Han](http://wanghan.pro), Nanyang Technological University, Singapore
 
