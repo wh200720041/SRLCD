@@ -1,5 +1,5 @@
 # SRLCD
-Loop Closure Detection through saliency re-identification IROS 2020
+Online Visual Place Recognition via Saliency Re-identification IROS 2020
 
 **Author:** [Wang Han](http://wanghan.pro), Nanyang Technological University, Singapore
 
@@ -35,5 +35,15 @@ Follow [Opencv installation](https://www.learnopencv.com/install-opencv3-on-wind
 ### 2.3. Eigen
 Follow [Eigen Installation](https://eigen.tuxfamily.org/dox/GettingStarted.html).
 
+##Citation
+If you use this work for your research, you may want to cite
+```
+@article{wang2020online,
+  title={Online Visual Place Recognition via Saliency Re-identification},
+  author={Wang, Han and Wang, Chen and Xie, Lihua},
+  journal={arXiv preprint arXiv:2007.14549},
+  year={2020}
+}
+```
 
 
