@@ -35,7 +35,7 @@ Follow [Opencv installation](https://www.learnopencv.com/install-opencv3-on-wind
 ### 2.3. Eigen
 Follow [Eigen Installation](https://eigen.tuxfamily.org/dox/GettingStarted.html).
 
-##Citation
+## 3. Citation
 If you use this work for your research, you may want to cite
 ```
 @article{wang2020online,
