@@ -38,11 +38,15 @@ Follow [Eigen Installation](https://eigen.tuxfamily.org/dox/GettingStarted.html)
 ## 3. Citation
 If you use this work for your research, you may want to cite
 ```
-@article{wang2020online,
-  title={Online Visual Place Recognition via Saliency Re-identification},
-  author={Wang, Han and Wang, Chen and Xie, Lihua},
-  journal={arXiv preprint arXiv:2007.14549},
-  year={2020}
+@inproceedings{wang2020online,
+  author={H. {Wang} and C. {Wang} and L. {Xie}},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Online Visual Place Recognition via Saliency Re-identification}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={5030-5036},
+  doi={10.1109/IROS45743.2020.9341703}
 }
 ```
 
